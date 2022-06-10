@@ -1,5 +1,5 @@
 # Проект по автоматизации тестирования ussc.ru
-<a href="https://www.ussc.ru/"><img width="50%" title="УСЦБ" src="images/logo/ussc logo.png"></a>
+<a href="https://www.ussc.ru/"><img width="30%" title="УСЦБ" src="images/logo/ussc logo.png"></a>
 
 ## :point_up: Структура:
 
