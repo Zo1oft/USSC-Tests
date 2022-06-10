@@ -15,7 +15,7 @@ public class USSCTests extends TestBase {
     @Test
     @Description("Проверка работы кнопки 'Начать сотрудничество'")
     @DisplayName("Начать сотрудничество")
-    void debitCardPageTest() {
+    void collaborationFormTest() {
         step("Открываем сайт Уральского центра систем безопасности", () -> {
            mainPage.openPage();
         });
@@ -31,9 +31,9 @@ public class USSCTests extends TestBase {
     }
 
     @Test
-    @Description("Проверка работы страницы программы сервисного обслуживания")
+    @Description("Проверка работы страницы программ сервисного обслуживания")
     @DisplayName("Программа сервисного обслуживания")
-    void creditPageTest() {
+    void supportPageTest() {
         step("Открываем сайт Уральского центра систем безопасности", () -> {
             mainPage.openPage();
         });
